@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Súper fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Lásers"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Ponzi-Duende",
+    "nombreReal": "Eduardo Miguel",
+    "nombreSociedad": "Vigilante",
+    "edad": 57,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Papas Fritas, Ruidos",
+    "poder": [
+      "Molestar",
+      "Hablar sin saber"
+    ],
+    "habilidadEspecial": "Estafar",
+    "aliado": [
+      "Boa Hancock"
+    ],
+    "enemigo": [
+      "La sociedad"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Gia Hancock",
+    "nombreReal": "Sabrina Giacomino",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Venus",
+    "debilidad": "Control Emocional",
+    "poder": [
+      "Congelar corazones",
+      "petrificacion"
+    ],
+    "habilidadEspecial": "Enamoamiento instantaneo",
+    "aliado": [
+      "Ponzi Duende"
+    ],
+    "enemigo": [
+      "LokiPonzi Duende"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tierra",
+    "debilidad": "No tiene habilidades sobrehumanas",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Ponzi-Duende",
+    "nombreReal": "Eduardo Miguel",
+    "nombreSociedad": "Vigilante",
+    "edad": 57,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Papas Fritas, Ruidos",
+    "poder": [
+      "Molestar",
+      "Hablar sin saber"
+    ],
+    "habilidadEspecial": "Estafar",
+    "aliado": [
+      "Boa Hancock"
+    ],
+    "enemigo": [
+      "La sociedad"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Gia Hancock",
+    "nombreReal": "Sabrina Giacomino",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Venus",
+    "debilidad": "Control Emocional",
+    "poder": [
+      "Congelar corazones",
+      "petrificacion"
+    ],
+    "habilidadEspecial": "Enamoamiento instantaneo",
+    "aliado": [
+      "Ponzi Duende"
+    ],
+    "enemigo": [
+      "LokiPonzi Duende"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tierra",
+    "debilidad": "No tiene habilidades sobrehumanas",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Ponzi-Duende",
+    "nombreReal": "Eduardo Miguel",
+    "nombreSociedad": "Vigilante",
+    "edad": 57,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Papas Fritas, Ruidos",
+    "poder": [
+      "Molestar",
+      "Hablar sin saber"
+    ],
+    "habilidadEspecial": "Estafar",
+    "aliado": [
+      "Boa Hancock"
+    ],
+    "enemigo": [
+      "La sociedad"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Gia Hancock",
+    "nombreReal": "Sabrina Giacomino",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Venus",
+    "debilidad": "Control Emocional",
+    "poder": [
+      "Congelar corazones",
+      "petrificacion"
+    ],
+    "habilidadEspecial": "Enamoamiento instantaneo",
+    "aliado": [
+      "Ponzi Duende"
+    ],
+    "enemigo": [
+      "LokiPonzi Duende"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tierra",
+    "debilidad": "No tiene habilidades sobrehumanas",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  }
+]
